@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<scene id="1">
+	<attribute name="Name" value="" />
+	<attribute name="Time Scale" value="1" />
+	<attribute name="Smoothing Constant" value="50" />
+	<attribute name="Snap Threshold" value="5" />
+	<attribute name="Elapsed Time" value="0" />
+	<attribute name="Next Replicated Node ID" value="1" />
+	<attribute name="Next Replicated Component ID" value="3" />
+	<attribute name="Next Local Node ID" value="16777229" />
+	<attribute name="Next Local Component ID" value="16777228" />
+	<attribute name="Variables" />
+	<attribute name="Variable Names" value="" />
+	<component type="Octree" id="1" />
+	<component type="DebugRenderer" id="2" />
+	<node id="16777216">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scene" />
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+		<attribute name="Scale" value="0.04 0.04 0.04" />
+		<attribute name="Variables" />
+		<component type="StaticModel" id="16777216">
+			<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Plane.mdl" />
+			<attribute name="Material" value="Material;PurpleprintKit/Materials/Grids/GridWhite+.xml" />
+		</component>
+	</node>
+	<node id="16777217">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scene" />
+		<attribute name="Position" value="4 4 0" />
+		<attribute name="Rotation" value="0.707107 0 0 0.707107" />
+		<attribute name="Scale" value="0.04 0.04 0.04" />
+		<attribute name="Variables" />
+		<component type="StaticModel" id="16777217">
+			<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Plane.mdl" />
+			<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/Green.xml" />
+		</component>
+	</node>
+	<node id="16777218">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scene" />
+		<attribute name="Position" value="-4 4 0" />
+		<attribute name="Rotation" value="1.38724e-008 -0.707107 -0.707106 3.3357e-009" />
+		<attribute name="Scale" value="0.04 0.04 0.04" />
+		<attribute name="Variables" />
+		<component type="StaticModel" id="16777218">
+			<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Plane.mdl" />
+			<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/Red.xml" />
+		</component>
+	</node>
+	<node id="16777219">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scene" />
+		<attribute name="Position" value="0 4 4" />
+		<attribute name="Rotation" value="0.5 -0.5 -0.5 0.5" />
+		<attribute name="Scale" value="0.04 0.04 0.04" />
+		<attribute name="Variables" />
+		<component type="StaticModel" id="16777219">
+			<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Plane.mdl" />
+			<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/White.xml" />
+		</component>
+	</node>
+	<node id="16777220">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scene" />
+		<attribute name="Position" value="0 4 -4" />
+		<attribute name="Rotation" value="0.5 0.5 0.5 0.5" />
+		<attribute name="Scale" value="0.04 0.04 0.04" />
+		<attribute name="Variables" />
+		<component type="StaticModel" id="16777220">
+			<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Plane.mdl" />
+			<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/White.xml" />
+		</component>
+	</node>
+	<node id="16777221">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="" />
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<attribute name="Variables" />
+		<node id="16777222">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="" />
+			<attribute name="Position" value="2 1 -2" />
+			<attribute name="Rotation" value="1 0 0 0" />
+			<attribute name="Scale" value="0.01 0.01 0.01" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="16777221">
+				<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Sphere.mdl" />
+				<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/White.xml" />
+				<attribute name="Cast Shadows" value="true" />
+			</component>
+		</node>
+		<node id="16777224">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="" />
+			<attribute name="Position" value="-2 1 2" />
+			<attribute name="Rotation" value="1 0 0 0" />
+			<attribute name="Scale" value="0.01 0.01 0.01" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="16777223">
+				<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Sphere.mdl" />
+				<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/White.xml" />
+				<attribute name="Cast Shadows" value="true" />
+			</component>
+		</node>
+		<node id="16777225">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="" />
+			<attribute name="Position" value="0 0 0" />
+			<attribute name="Rotation" value="1 0 0 0" />
+			<attribute name="Scale" value="0.01 0.01 0.01" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="16777224">
+				<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Dome.mdl" />
+				<attribute name="Material" value="Material;PurpleprintKit/Materials/Grids/GridWhite.xml" />
+				<attribute name="Cast Shadows" value="true" />
+			</component>
+		</node>
+		<node id="16777226">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="" />
+			<attribute name="Position" value="-2 1 -2" />
+			<attribute name="Rotation" value="1 0 0 0" />
+			<attribute name="Scale" value="0.01 0.01 0.01" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="16777225">
+				<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Cone.mdl" />
+				<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/White.xml" />
+				<attribute name="Cast Shadows" value="true" />
+			</component>
+		</node>
+		<node id="16777227">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="" />
+			<attribute name="Position" value="2 1 2" />
+			<attribute name="Rotation" value="1 0 0 0" />
+			<attribute name="Scale" value="0.01 0.01 0.01" />
+			<attribute name="Variables" />
+			<component type="StaticModel" id="16777226">
+				<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Cylinder.mdl" />
+				<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/White.xml" />
+				<attribute name="Cast Shadows" value="true" />
+			</component>
+		</node>
+	</node>
+	<node id="16777223">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="" />
+		<attribute name="Position" value="0 4 0" />
+		<attribute name="Rotation" value="1 1.77636e-015 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<attribute name="Variables" />
+		<component type="Light" id="16777222">
+			<attribute name="Light Shape Texture" value="TextureCube;" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="16777228">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scene" />
+		<attribute name="Position" value="0 8 0" />
+		<attribute name="Rotation" value="1.48059e-016 1 1.2168e-008 1.2168e-008" />
+		<attribute name="Scale" value="0.04 0.04 0.04" />
+		<attribute name="Variables" />
+		<component type="StaticModel" id="16777227">
+			<attribute name="Model" value="Model;PurpleprintKit/Models/Geometry/Simple/Plane.mdl" />
+			<attribute name="Material" value="Material;PurpleprintKit/Materials/MaterialsPlane/Colors/White.xml" />
+		</component>
+	</node>
+</scene>

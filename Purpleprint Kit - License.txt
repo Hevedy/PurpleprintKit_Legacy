@@ -1,0 +1,11 @@
+Purpleprint Kit (c) by Hevedy <https://github.com/Hevedy>
+
+Purpleprint Kit is licensed under a
+Creative Commons Attribution 3.0 Unported License.
+
+You should have received a copy of the license along with this
+work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
+
+
+Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
+Unreal® Engine, Copyright 1998 – 2016, Epic Games, Inc. All rights reserved.
