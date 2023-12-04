@@ -36,13 +36,13 @@ All content have been created by Hevedy but the font for the text in textures ar
 Purpleprint Kit (c) by Hevedy <https://github.com/Hevedy>
 
 Purpleprint Kit is licensed under a
-Creative Commons Attribution 3.0 Unported License.
+Creative Commons Zero 1.0 Universal License.
 
 You should have received a copy of the license along with this
-work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
+work.  If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
-Unreal® Engine, Copyright 1998 – 2016, Epic Games, Inc. All rights reserved.
+Unreal® Engine, Copyright 1998 – 2024, Epic Games, Inc. All rights reserved.
 
 *This license include all files (images, screenshots, textures, materials, maps, levels, shaders, 3D models, 2D models, Source files, Blend files...).  
 For more info about the license check the license file "Purpleprint Kit - License.txt".  
